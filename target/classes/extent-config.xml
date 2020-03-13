@@ -4,8 +4,8 @@
         <encoding>UTF-8</encoding>
         <protocol>https</protocol>
         <theme>dark</theme>
-        <documentTitle>TTND</documentTitle>
-        <reportName>TTN Web Automation Report</reportName>
+        <documentTitle>TLA</documentTitle>
+        <reportName>Automation Review Reports</reportName>
         <reportHeadline></reportHeadline>
         <dateFormat>yyyy-MM-dd</dateFormat>
         <timeFormat>HH:mm:ss</timeFormat>
