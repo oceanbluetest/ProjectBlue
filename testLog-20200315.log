@@ -1,0 +1,370 @@
+2020-03-15 00:01:04.015 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:01:04.486 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:01:04.716 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:01:06.012 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:01:08.873 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:01:09.085 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:08:49.907 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:08:50.119 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:08:50.119 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:08:52.180 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:08:54.478 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:08:55.064 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:10:19.101 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:10:19.188 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:10:19.414 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:10:21.037 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:10:22.952 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:10:24.077 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:11:19.463 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:11:19.543 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:11:20.168 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:11:21.455 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:11:22.507 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:11:23.794 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:14:21.883 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:14:21.907 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:14:22.561 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:14:23.132 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:14:24.615 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:14:24.866 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:16:15.760 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:16:15.760 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:16:16.058 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:16:17.743 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:16:17.910 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:16:25.119 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:26:14.008 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:26:58.140 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:26:58.149 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:28:01.808 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:28:04.805 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:28:09.936 [main] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:28:11.138 [main] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:28:16.399 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:28:18.705 [main] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:41:42.543 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:41:44.780 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:44:05.828 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:44:09.468 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:44:18.927 [main] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:44:20.063 [main] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:44:29.581 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:44:31.602 [main] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:44:50.763 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:44:50.848 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:44:50.938 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:44:53.600 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:44:54.102 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:44:58.410 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:45:37.991 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:45:38.073 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:45:39.421 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:45:41.235 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:45:41.528 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:45:41.799 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:47:33.632 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:47:33.632 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:47:33.687 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:47:38.985 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:47:39.413 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:47:39.861 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:52:58.065 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:52:58.131 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:52:58.322 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:53:00.071 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 00:53:04.202 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:53:04.202 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:58:43.404 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 00:58:43.404 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 00:58:43.959 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 00:58:50.687 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 00:58:50.942 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 00:58:51.244 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:00:10.953 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:00:10.953 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:00:10.953 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:00:15.888 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:00:16.223 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:00:16.638 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:04:09.995 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:04:10.002 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:04:10.131 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:04:10.224 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:05:06.311 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:05:06.450 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:05:06.595 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:05:11.782 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:05:12.239 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:05:12.739 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:06:11.174 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:06:11.181 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:06:11.436 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:06:11.636 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:09:37.931 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:09:38.045 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:09:38.559 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:09:43.031 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:09:43.305 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:09:43.564 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:11:57.577 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:11:57.577 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:11:57.713 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:11:59.413 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:12:02.309 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:12:03.301 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:24:55.938 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:24:55.941 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:24:56.030 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:25:05.566 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:25:05.871 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:25:06.278 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:35:43.320 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:35:43.320 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:35:43.320 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:35:50.628 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:35:51.542 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:35:57.916 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:39:45.696 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:39:45.941 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:39:45.941 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:39:47.461 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:39:47.978 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:39:52.655 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:41:13.965 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:41:13.995 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:41:14.200 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:41:16.127 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:41:16.363 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:41:18.375 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:43:02.523 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:43:02.636 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:43:02.693 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:43:04.592 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:43:06.166 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:43:08.688 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:44:31.364 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:44:31.364 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:44:31.364 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:44:32.705 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:44:37.718 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:44:37.976 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:45:16.397 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:45:16.397 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:45:16.430 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:45:18.551 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:45:22.960 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:45:23.724 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:46:10.639 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:46:10.639 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:46:10.763 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:46:13.047 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:46:14.309 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:46:15.627 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:50:36.949 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:50:36.949 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:50:36.949 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:50:38.502 [TestNG-test=Extent Report Test-2] INFO  Log - Amazon Test
+2020-03-15 01:50:38.503 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:50:40.604 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon Test
+2020-03-15 01:50:40.605 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:50:41.670 [TestNG-test=Extent Report Test-3] INFO  Log - Amazon Test
+2020-03-15 01:50:41.671 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:51:29.010 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:51:29.010 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:51:29.312 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:51:29.822 [TestNG-test=Extent Report Test-2] INFO  Log - Amazon Test
+2020-03-15 01:51:29.827 [TestNG-test=Extent Report Test-2] INFO  Log - Google
+2020-03-15 01:51:29.828 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:51:30.188 [TestNG-test=Extent Report Test-3] INFO  Log - Amazon Test
+2020-03-15 01:51:30.203 [TestNG-test=Extent Report Test-3] INFO  Log - Coding Boot-camp | Tech Lead Academy
+2020-03-15 01:51:30.204 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:51:33.362 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon Test
+2020-03-15 01:51:33.378 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 01:51:33.379 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:58:13.761 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:58:13.803 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:58:13.974 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:58:14.767 [TestNG-test=Extent Report Test-2] INFO  Log - TLA Test
+2020-03-15 01:58:14.771 [TestNG-test=Extent Report Test-2] INFO  Log - Google
+2020-03-15 01:58:14.772 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:58:16.009 [TestNG-test=Extent Report Test-3] INFO  Log - TLA Test
+2020-03-15 01:58:16.055 [TestNG-test=Extent Report Test-3] INFO  Log - Coding Boot-camp | Tech Lead Academy
+2020-03-15 01:58:16.056 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:58:18.283 [TestNG-test=Extent Report Test-1] INFO  Log - TLA Test
+2020-03-15 01:58:18.287 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 01:58:18.287 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:58:49.250 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:58:49.250 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:58:49.250 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:58:50.235 [TestNG-test=Extent Report Test-2] INFO  Log - TLA Test
+2020-03-15 01:58:50.242 [TestNG-test=Extent Report Test-2] INFO  Log - Google
+2020-03-15 01:58:50.244 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:58:50.633 [TestNG-test=Extent Report Test-3] INFO  Log - TLA Test
+2020-03-15 01:58:50.676 [TestNG-test=Extent Report Test-3] INFO  Log - Coding Boot-camp | Tech Lead Academy
+2020-03-15 01:58:50.676 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:58:53.597 [TestNG-test=Extent Report Test-1] INFO  Log - TLA Test
+2020-03-15 01:58:53.600 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 01:58:53.601 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:58:58.770 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:58:59.689 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:59:00.730 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:59:03.768 [TestNG-test=Extent Report Test-1] INFO  Log - YouTube Test
+2020-03-15 01:59:03.877 [TestNG-test=Extent Report Test-1] INFO  Log - Best Buy | Official Online Store | Shop Now & Save
+2020-03-15 01:59:03.877 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:59:04.063 [TestNG-test=Extent Report Test-2] INFO  Log - YouTube Test
+2020-03-15 01:59:04.094 [TestNG-test=Extent Report Test-2] INFO  Log - CNN - Breaking News, Latest News and Videos
+2020-03-15 01:59:04.095 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:59:04.870 [TestNG-test=Extent Report Test-3] INFO  Log - YouTube Test
+2020-03-15 01:59:04.874 [TestNG-test=Extent Report Test-3] INFO  Log - YouTube
+2020-03-15 01:59:04.874 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:59:24.581 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:59:24.730 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 01:59:29.665 [TestNG-test=Extent Report Test-2] INFO  Log - BestBuy Test
+2020-03-15 01:59:29.773 [TestNG-test=Extent Report Test-2] INFO  Log - Best Buy | Official Online Store | Shop Now & Save
+2020-03-15 01:59:29.774 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:59:30.797 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon Test
+2020-03-15 01:59:30.801 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 01:59:30.802 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 01:59:35.940 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:59:36.996 [TestNG-test=Extent Report Test-1] INFO  Log - Google Test
+2020-03-15 01:59:37.000 [TestNG-test=Extent Report Test-1] INFO  Log - Google
+2020-03-15 01:59:37.001 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:59:39.360 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 01:59:40.466 [TestNG-test=Extent Report Test-2] INFO  Log - CNN Test
+2020-03-15 01:59:41.198 [TestNG-test=Extent Report Test-2] INFO  Log - CNN - Breaking News, Latest News and Videos
+2020-03-15 01:59:41.198 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 01:59:46.456 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:59:48.075 [TestNG-test=Extent Report Test-1] INFO  Log - TLA Test
+2020-03-15 01:59:48.088 [TestNG-test=Extent Report Test-1] INFO  Log - Coding Boot-camp | Tech Lead Academy
+2020-03-15 01:59:48.088 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 01:59:50.481 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 01:59:53.239 [TestNG-test=Extent Report Test-2] INFO  Log - YouTube Test
+2020-03-15 01:59:53.295 [TestNG-test=Extent Report Test-2] INFO  Log - YouTube
+2020-03-15 01:59:53.296 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:00:28.574 [TestNG-test=Extent Report Test-5] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:00:28.722 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:00:28.790 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:00:28.807 [TestNG-test=Extent Report Test-6] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:00:28.817 [TestNG-test=Extent Report Test-4] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:00:29.124 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:00:33.499 [TestNG-test=Extent Report Test-2] INFO  Log - Google Test
+2020-03-15 02:00:33.506 [TestNG-test=Extent Report Test-2] INFO  Log - Google
+2020-03-15 02:00:33.508 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:00:38.764 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:00:38.799 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:00:38.813 [TestNG-test=Extent Report Test-6] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:00:38.825 [TestNG-test=Extent Report Test-4] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:00:40.134 [TestNG-test=Extent Report Test-5] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:01:13.756 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:01:13.756 [TestNG-test=Extent Report Test-5] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:01:13.826 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:01:13.856 [TestNG-test=Extent Report Test-6] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:01:14.225 [TestNG-test=Extent Report Test-4] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:01:14.329 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:01:15.717 [TestNG-test=Extent Report Test-2] INFO  Log - TLA Test
+2020-03-15 02:01:15.721 [TestNG-test=Extent Report Test-2] INFO  Log - Google
+2020-03-15 02:01:15.723 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:01:19.441 [TestNG-test=Extent Report Test-5] INFO  Log - BestBuy Test
+2020-03-15 02:01:19.629 [TestNG-test=Extent Report Test-5] INFO  Log - CNN - Breaking News, Latest News and Videos
+2020-03-15 02:01:19.630 [TestNG-test=Extent Report Test-5] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:01:21.996 [TestNG-test=Extent Report Test-6] INFO  Log - BestBuy Test
+2020-03-15 02:01:22.076 [TestNG-test=Extent Report Test-6] INFO  Log - YouTube
+2020-03-15 02:01:22.076 [TestNG-test=Extent Report Test-6] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:01:25.441 [TestNG-test=Extent Report Test-3] INFO  Log - TLA Test
+2020-03-15 02:01:25.448 [TestNG-test=Extent Report Test-3] INFO  Log - Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:01:25.449 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:01:25.690 [TestNG-test=Extent Report Test-1] INFO  Log - TLA Test
+2020-03-15 02:01:25.817 [TestNG-test=Extent Report Test-1] INFO  Log - Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:01:25.818 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:01:27.450 [TestNG-test=Extent Report Test-4] INFO  Log - BestBuy Test
+2020-03-15 02:01:27.495 [TestNG-test=Extent Report Test-4] INFO  Log - Best Buy | Official Online Store | Shop Now & Save
+2020-03-15 02:01:27.496 [TestNG-test=Extent Report Test-4] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:06:40.911 [TestNG-test=Extent Report Test-4] INFO  Log - STARTING test execution of Test: bestBuy
+2020-03-15 02:06:40.911 [TestNG-test=Extent Report Test-6] INFO  Log - STARTING test execution of Test: youTube
+2020-03-15 02:06:40.971 [TestNG-test=Extent Report Test-5] INFO  Log - STARTING test execution of Test: cnn
+2020-03-15 02:06:41.100 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:06:41.227 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:06:42.211 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:06:44.314 [TestNG-test=Extent Report Test-5] INFO  Log - CNN Test | Description: CNN - Breaking News, Latest News and Videos
+2020-03-15 02:06:44.316 [TestNG-test=Extent Report Test-5] INFO  Log - ENDING test execution of Test: cnn
+2020-03-15 02:06:44.837 [TestNG-test=Extent Report Test-2] INFO  Log - TLA Test | Description: Google
+2020-03-15 02:06:44.838 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:06:49.295 [TestNG-test=Extent Report Test-6] INFO  Log - CNN Test | Description: YouTube
+2020-03-15 02:06:49.296 [TestNG-test=Extent Report Test-6] INFO  Log - ENDING test execution of Test: youTube
+2020-03-15 02:06:53.504 [TestNG-test=Extent Report Test-1] INFO  Log - TLA Test | Description: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:06:53.505 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:06:53.800 [TestNG-test=Extent Report Test-3] INFO  Log - TLA Test | Description: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:06:53.801 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:06:55.161 [TestNG-test=Extent Report Test-4] INFO  Log - CNN Test | Description: Best Buy | Official Online Store | Shop Now & Save
+2020-03-15 02:06:55.162 [TestNG-test=Extent Report Test-4] INFO  Log - ENDING test execution of Test: bestBuy
+2020-03-15 02:19:42.613 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: youTube
+2020-03-15 02:19:42.613 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: cnn
+2020-03-15 02:19:42.755 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: bestBuy
+2020-03-15 02:19:46.852 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: cnn
+2020-03-15 02:19:47.788 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: youTube
+2020-03-15 02:19:49.284 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: bestBuy
+2020-03-15 02:21:11.363 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: youTube
+2020-03-15 02:21:11.363 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: bestBuy
+2020-03-15 02:21:11.739 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: cnn
+2020-03-15 02:21:14.769 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: cnn
+2020-03-15 02:21:15.839 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: youTube
+2020-03-15 02:21:16.649 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: bestBuy
+2020-03-15 02:23:02.188 [TestNG-test=Extent Report Test-4] INFO  Log - STARTING test execution of Test: bestBuy
+2020-03-15 02:23:02.309 [TestNG-test=Extent Report Test-1] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:23:02.353 [TestNG-test=Extent Report Test-3] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:23:02.404 [TestNG-test=Extent Report Test-6] INFO  Log - STARTING test execution of Test: youTube
+2020-03-15 02:23:02.405 [TestNG-test=Extent Report Test-2] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:23:02.655 [TestNG-test=Extent Report Test-5] INFO  Log - STARTING test execution of Test: cnn
+2020-03-15 02:23:05.541 [TestNG-test=Extent Report Test-2] INFO  Log - Google Test | Title: Google
+2020-03-15 02:23:05.543 [TestNG-test=Extent Report Test-2] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:23:14.549 [TestNG-test=Extent Report Test-5] INFO  Log - CNN Test | Title: CNN - Breaking News, Latest News and Videos
+2020-03-15 02:23:14.550 [TestNG-test=Extent Report Test-5] INFO  Log - ENDING test execution of Test: cnn
+2020-03-15 02:23:14.811 [TestNG-test=Extent Report Test-6] INFO  Log - CNN Test | Title: YouTube
+2020-03-15 02:23:14.812 [TestNG-test=Extent Report Test-6] INFO  Log - ENDING test execution of Test: youTube
+2020-03-15 02:23:16.511 [TestNG-test=Extent Report Test-3] INFO  Log - Google Test | Title: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:23:16.512 [TestNG-test=Extent Report Test-3] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:23:17.210 [TestNG-test=Extent Report Test-4] INFO  Log - ENDING test execution of Test: bestBuy
+2020-03-15 02:23:17.316 [TestNG-test=Extent Report Test-1] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:33:51.073 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:33:55.059 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:33:58.069 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:34:03.273 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:34:04.574 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:34:07.576 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:34:16.911 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:34:19.143 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:34:22.144 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:34:31.722 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:34:33.613 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:34:36.613 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:34:46.058 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:34:48.000 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:34:51.015 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:45:54.380 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:45:56.238 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:45:58.248 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:46:07.498 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:46:09.623 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:46:11.626 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:46:21.136 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:46:23.137 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:46:25.140 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:46:34.441 [main] INFO  Log - STARTING test execution of Test: testAmazon
+2020-03-15 02:46:36.223 [main] INFO  Log - Amazon Test | Title: Amazon.com: Online Shopping for Electronics, Apparel, Computers, Books, DVDs & more
+2020-03-15 02:46:38.236 [main] INFO  Log - ENDING test execution of Test: testAmazon
+2020-03-15 02:46:47.504 [main] INFO  Log - STARTING test execution of Test: testGoogle
+2020-03-15 02:46:48.187 [main] INFO  Log - Google Test | Title: Google
+2020-03-15 02:46:48.188 [main] INFO  Log - ENDING test execution of Test: testGoogle
+2020-03-15 02:46:57.642 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:46:58.621 [main] INFO  Log - TLA Test | Title: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:46:58.622 [main] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:47:08.103 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:47:09.108 [main] INFO  Log - TLA Test | Title: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:47:09.109 [main] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:47:18.567 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:47:19.545 [main] INFO  Log - TLA Test | Title: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:47:19.546 [main] INFO  Log - ENDING test execution of Test: testTLA
+2020-03-15 02:47:29.081 [main] INFO  Log - STARTING test execution of Test: testTLA
+2020-03-15 02:47:29.965 [main] INFO  Log - TLA Test | Title: Coding Boot-camp | Tech Lead Academy
+2020-03-15 02:47:29.967 [main] INFO  Log - ENDING test execution of Test: testTLA

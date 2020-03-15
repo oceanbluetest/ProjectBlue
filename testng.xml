@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
-<suite name="Main Test Suite" verbose="5">
-
-    <test name="Extent Report Test">
+<suite name="Main Test Suite">
+    <test name="Extent Report Test" verbose="1" parallel="methods" thread-count="6">
         <classes>
-            <class name="ExtentReport_BASIC"/>
+            <class name="ParallelRun.PHPTravels_Test1"/>
+            <class name="ParallelRun.PHPTravels_Test2" />
         </classes>
     </test>
 </suite>

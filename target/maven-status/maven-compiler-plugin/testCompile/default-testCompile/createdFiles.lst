@@ -1,5 +1,4 @@
-TestBase.class
 ExtentReport_BASIC.class
-util\ConfigReader.class
 ExtentReport_DARK.class
+util\ConfigReader.class
 PHPTravels_Test.class

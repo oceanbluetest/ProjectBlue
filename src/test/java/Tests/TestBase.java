@@ -19,12 +19,13 @@ import java.lang.reflect.Method;
 import java.util.concurrent.TimeUnit;
 
 public class TestBase {
-    public WebDriver driver;
-    public static final Logger logger = LogManager.getLogger("Log");
-    public ExtentReports extent;
-    public ExtentTest reporter;
-    public Screenshot screenshot;
-    public Test test;
+    protected WebDriver driver;
+    protected Screenshot screenshot;
+    protected static final Logger logger = LogManager.getLogger("Log");
+    private ExtentReports extent;
+    protected ExtentTest reporter;
+
+    protected Test test;
 
     @BeforeSuite
     public void startReport() {
@@ -38,15 +39,8 @@ public class TestBase {
 
     @BeforeMethod
     public void setUp(Method method){
+        initializeWebDriver();
         test = method.getAnnotation(Test.class);
-        WebDriverManager.chromedriver().setup();
-        System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");  //To get rid of console Warning outputs
-
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-        driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
-
         logger.info("STARTING test execution of Test: " + method.getName());
 
         reporter = extent.startTest(test.description());  //extent.startTest((this.getClass().getSimpleName())); //can add description to Report here
@@ -78,6 +72,15 @@ public class TestBase {
     public void tearDown() {
         extent.flush();
         extent.close();
+    }
+
+    public void initializeWebDriver(){
+        WebDriverManager.chromedriver().setup();
+        System.setProperty(ChromeDriverService.CHROME_DRIVER_SILENT_OUTPUT_PROPERTY, "true");  //To get rid of console Warning outputs
+        driver = new ChromeDriver();
+        //driver.manage().window().maximize();
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.SECONDS);
     }
 
 
